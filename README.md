@@ -1,2 +1,1 @@
-
-My journey with Python
+ALX HIGH LEVEL PROGRAMMING
